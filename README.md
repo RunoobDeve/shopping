@@ -1,12 +1,8 @@
 # Vue实现电商网站项目
 `vue` + `vue-router` + `vuex`实现电商网站
 
-## 效果展示
-
-![](https://user-gold-cdn.xitu.io/2019/3/18/16990d6fd5380b63?w=991&h=606&f=gif&s=709516)
-
 ## install
-+ 下载代码: `git clone https://github.com/chenchangyuan/shopping.git`
++ 下载代码: `git clone https://github.com/RunoobDeve/shopping.git`
 + 安装依赖: `npm install`
 + 启动项目: `npm run dev`
 > 运行环境: [node v9.11.1](https://nodejs.org/zh-cn/download/ 'Node.js') *npm 5.6.0*
@@ -259,13 +255,6 @@ const store = new Vuex.Store({
     }
 });
 ```
-
-## 后记
-
-项目地址: [github](https://github.com/chenchangyuan/shopping) 
-如果对你有所帮助，请start
-
-笔者个人微信 `gm4118679254` 欢迎加好友，一起沟通交流
 
 ## 参考资料
 [Vue.js实战](https://item.jd.com/12215519.html 'Vue.js实战')

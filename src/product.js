@@ -98,5 +98,15 @@ export default [
         sales: 9000,
         cost: 2298,
         color: '金色'
-    }
+    },
+    {
+        id: 10,
+        name: 'B&O PLAY Beoplay H4 无线头戴式耳机',
+        brand: 'B&O',
+        image: '/src/images/bo_2.jpg',
+        imageDetail: '/src/images/bo_2_detail.jpg',
+        sales: 9000,
+        cost: 2298,
+        color: '金色'
+    }   
 ]
